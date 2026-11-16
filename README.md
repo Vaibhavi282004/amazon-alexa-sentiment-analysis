@@ -1,4 +1,4 @@
-# 🤖 Amazon Alexa Sentiment Analysis
+#  Customer Feedback Sentiment Analysis |
 
 A Machine Learning project that classifies Amazon Alexa product reviews as **Positive** or **Negative** using Natural Language Processing (NLP) and Scikit-learn. The application provides real-time sentiment prediction through a user-friendly Streamlit interface.
 
